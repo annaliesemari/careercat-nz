@@ -1,2 +1,2 @@
-# careercatto
-Your Online Career Menu
+# careercat-nz
+Your Future Catalogue
